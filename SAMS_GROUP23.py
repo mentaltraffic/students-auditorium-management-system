@@ -1,9 +1,4 @@
-# pupupu
-# monal trying to make changes to ysh/sams/master/main.py
-# This is a sample Python script.
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 from datetime import datetime
 from functools import partial
@@ -1307,7 +1302,3 @@ def unitTest():
 
 unitTest()
 
-# write save methods for shows, auditoriums, ledgers, employees. maybe add a filename field everywhere so you know
-# where to save.
-
-# Press the green button in the gutter to run the script.
